@@ -1,5 +1,5 @@
 public interface Shippable {
-    public String getName();
+     String getName();
 
-    public double getWeight();
+     double getWeight();
 }

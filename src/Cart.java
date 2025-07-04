@@ -48,7 +48,7 @@ public class Cart {
 
     public boolean checkProductsQuantity() {
         for (CartItem item : items.values()) {
-            if (!checkQuantity(item.product, item.quantity)) {
+            if (!checkQuantity(item.getProduct(), item.getQuantity())) {
                 return false;
             }
         }
