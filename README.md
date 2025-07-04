@@ -13,3 +13,9 @@ This project is a console-based E-Commerce System built in Java as part of the *
   - Prints shipment notice.
 ## Notes
 - Shipping fee = `30 EGP per kg` (rounded)
+## Test Scenarios
+
+- ✅ Successful checkout
+- ❌ Insufficient balance
+- ❌ Expired items in cart
+- ❌ Requesting more items than in stock
