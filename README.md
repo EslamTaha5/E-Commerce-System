@@ -19,3 +19,10 @@ This project is a console-based E-Commerce System built in Java as part of the *
 - ❌ Insufficient balance
 - ❌ Expired items in cart
 - ❌ Requesting more items than in stock
+## Screenshots
+### Not Enough Balance
+![Not_enough_balance](./Test/Out_With_Balance_1000.png)
+### Enough Balance
+![Enough_balance](./Test/Out_With_Balance_10000.png)
+### Test
+![Test](./Test/Testcase.png)
